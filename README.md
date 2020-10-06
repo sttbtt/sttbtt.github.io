@@ -1,6 +1,6 @@
 # sttbtt.github.io
 
-# Setting up custom domain with SSL.
+# Setting up a custom domain on github pages with SSL.
 1. Register Domain.
 2. For using Cloudflare set DNS to: elma.ns.cloudflare.com and rommy.ns.cloudflare.com
 3. Do not forward from domain host.
