@@ -12,6 +12,6 @@
 
 # Useful links
 Hover - https://www.hover.com <br>
-Cloudflare - https://www.cloudflare.com.
-Helpful Instructions - https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a.
-Github IPs - https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site.
+Cloudflare - https://www.cloudflare.com <br>
+Helpful Instructions - https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a <br>
+Github IPs - https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site <br>
