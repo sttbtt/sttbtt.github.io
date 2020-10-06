@@ -4,10 +4,10 @@
 1. Register Domain.
 2. For using Cloudflare set DNS to: elma.ns.cloudflare.com and rommy.ns.cloudflare.com
 3. Do not forward from domain host.
-- Setup SSL on Cloudflare.
+4. Setup SSL on Cloudflare.
 - Setup A record with @ and IPs: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
 - Setup CNAME with www and username.github.io.
-4. Setup CNAME on github.
+5. Setup CNAME on github.
 
 # Useful links
 https://www.hover.com
