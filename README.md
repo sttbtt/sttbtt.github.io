@@ -11,7 +11,7 @@
 5. Setup CNAME on github.
 
 # Useful links
-https://www.hover.com
+Hove - https://www.hover.com
 https://www.cloudflare.com
 https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
